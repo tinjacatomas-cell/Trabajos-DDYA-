@@ -24,8 +24,8 @@
       "outputs": [],
       "source": [
         "# @title Ingrese datos\n",
-        "nombre_estudiante = \"Jonathan Melendez\" # @param {\"type\":\"string\"}\n",
-        "carnet = 1028866090 # @param {\"type\":\"integer\"}\n"
+        "nombre_estudiante = \"Tomas Tinjaca\" # @param {\"type\":\"string\"}\n",
+        "carnet = 1000099275 # @param {\"type\":\"integer\"}\n"
       ]
     },
     {
